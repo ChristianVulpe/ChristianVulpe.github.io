@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ChristianVulpe.github.io/sitemap.xml
+Sitemap: https://ChristianVulpe.github.io/sitemap.xml
