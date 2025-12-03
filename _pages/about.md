@@ -33,19 +33,23 @@ announcements:
     </div>
 </div>
 Introduction ici
-Hi, I'm Christian 👋
-I am a Bioinformatician at UMR Right, Besançon, specializing in the analysis of transcriptomic data including scRNA-seq, RNA-seq, and Microarrays.
+Hi, I'm Christian 👋 <br>
+I am a Bioinformatician at UMR Right, Besançon, specializing in the analysis of transcriptomic data including scRNA-seq, RNA-seq, and Microarrays. <br><br>
 
-🚀 Currently Learning
-Theoretical basics of Immunology
-Lymphocyte cells and their behaviors
-Enhancing coding skills for biological data analysis
-🛠️ Background & Skills
-Master 2 in Applied Mathematics (Engineering, Algorithms, Statistics)
-Beginner Bioinformatician since October 2025
-Strong interest in data analysis, algorithms, and applied statistics
-🎯 Interests
-Reading & brain teasers 🧩
-Coding & exploring new bioinformatics methods
-📫 Connect with me
+🚀 <strong>Currently Learning</strong> <br>
+Theoretical basics of Immunology <br>
+Lymphocyte cells and their behaviors <br>
+Enhancing coding skills for biological data analysis <br><br>
+
+🛠️ <strong>Background & Skills</strong> <br>
+Master 2 in Applied Mathematics (Engineering, Algorithms, Statistics) <br>
+Beginner Bioinformatician since October 2025 <br>
+Strong interest in data analysis, algorithms, and applied statistics <br><br>
+
+🎯 <strong>Interests</strong> <br>
+Reading & brain teasers 🧩 <br>
+Coding & exploring new bioinformatics methods <br><br>
+
+📫 <strong>Connect with me</strong> <br>
 Feel free to reach out via GitHub!
+
