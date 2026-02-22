@@ -32,7 +32,6 @@ announcements:
       </a>
     </div>
 </div>
-Introduction ici
 Hi, I'm Christian 👋 <br>
 I am a Bioinformatician at UMR Right, Besançon, specializing in the analysis of transcriptomic data including scRNA-seq, RNA-seq, and Microarrays. <br><br>
 
