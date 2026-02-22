@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Image1.jpg
+  image: assets/img/Image1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.85rem;">Bureau</p>
